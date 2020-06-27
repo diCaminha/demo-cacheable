@@ -1,4 +1,4 @@
-package com.caminha.democacheable;
+package com.caminha.democacheable.repository;
 
 import com.caminha.democacheable.model.Politico;
 import org.springframework.data.jpa.repository.JpaRepository;
